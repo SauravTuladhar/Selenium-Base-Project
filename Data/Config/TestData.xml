@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>RechtDirect Test-Automation Data</comment>
+<!--    RD Login Credentials-->
+    <entry key="UserEmail">Shankar.neupane41@gmail.com</entry>
+    <entry key="UserPassword">TD1MQP34WmnXECVL5zLsAw==</entry>
+<!--    RD BaseURl Dev-->
+    <entry key="BaseUrl">https://rechtdirect-dev.procit.com/</entry>
+<!--    Credentials To Send Email-->
+    <entry key="emailId">noreplyautomationemail@gmail.com</entry><!--autotest@smartflowapps.com-->
+    <entry key="passwordEmail">EUE3DL25lsPahqiBhDkFKlmhgFL5bPjFlXTRhxEzUaI=</entry><!--AkrCV95MRB5VejUXgpDVVw==-->
+    <entry key="emailSentTo">shankar.neupane@procit.com</entry><!--michiel.reuser@procit.com-->
+    <entry key="emailSentToCC">saurav.tuladhar@procit.com</entry> <!--saurav.tuladhar@procit.com, aidin.yavari@smartflowapps.com-->
+    <entry key="emailSentToBCC">niraj.adhikari@procit.com</entry>
+    
+<!--    Credentials for Registration Page-->
+    <entry key="FirstName"> Automation</entry>
+    <entry key="MiddleName">Registration</entry>
+    <entry key="LastName">Testing</entry>
+    <entry key="KvkNumber">00000000</entry>
+    <entry key="RegisterEmailAddress">test5@gmail.com</entry>
+    <entry key="RegisterPassword">UZ112YqMazM+gWq4+Yti0Q==</entry>
+</properties>
